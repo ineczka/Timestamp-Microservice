@@ -1,2 +1,2 @@
 # Timestamp-Microservice
-Project for FreeCodeCamp
+FCC project
